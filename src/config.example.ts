@@ -1,4 +1,4 @@
 export default {
-  username: 'normalusername',
-  password: 'v3ryh@rdp@ssw0rd',
+  username: 'habjag123',
+  password: '5292dk2',
 };
